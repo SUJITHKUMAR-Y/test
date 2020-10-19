@@ -1,0 +1,17 @@
+c:\Users\sujith.kumar\sky\test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\sujith.kumar\sky\test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\sujith.kumar\sky\test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\sujith.kumar\sky\test\bin\Debug\netcoreapp2.1\test.deps.json
+c:\Users\sujith.kumar\sky\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.json
+c:\Users\sujith.kumar\sky\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.dev.json
+c:\Users\sujith.kumar\sky\test\bin\Debug\netcoreapp2.1\test.dll
+c:\Users\sujith.kumar\sky\test\bin\Debug\netcoreapp2.1\test.pdb
+c:\Users\sujith.kumar\sky\test\obj\Debug\netcoreapp2.1\test.csprojAssemblyReference.cache
+c:\Users\sujith.kumar\sky\test\obj\Debug\netcoreapp2.1\test.csproj.CoreCompileInputs.cache
+c:\Users\sujith.kumar\sky\test\obj\Debug\netcoreapp2.1\test.AssemblyInfoInputs.cache
+c:\Users\sujith.kumar\sky\test\obj\Debug\netcoreapp2.1\test.AssemblyInfo.cs
+c:\Users\sujith.kumar\sky\test\obj\Debug\netcoreapp2.1\test.dll
+c:\Users\sujith.kumar\sky\test\obj\Debug\netcoreapp2.1\test.pdb
+C:\Users\sujith.kumar\sky\test\bin\Debug\netcoreapp2.1\srcc.dll
+C:\Users\sujith.kumar\sky\test\bin\Debug\netcoreapp2.1\srcc.pdb
+C:\Users\sujith.kumar\sky\test\obj\Debug\netcoreapp2.1\test.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\sujith.kumar\sky\srcc\bin\Debug\netcoreapp2.1\srcc.deps.json
+C:\Users\sujith.kumar\sky\srcc\bin\Debug\netcoreapp2.1\srcc.runtimeconfig.json
+C:\Users\sujith.kumar\sky\srcc\bin\Debug\netcoreapp2.1\srcc.runtimeconfig.dev.json
+C:\Users\sujith.kumar\sky\srcc\bin\Debug\netcoreapp2.1\srcc.dll
+C:\Users\sujith.kumar\sky\srcc\bin\Debug\netcoreapp2.1\srcc.pdb
+C:\Users\sujith.kumar\sky\srcc\obj\Debug\netcoreapp2.1\srcc.csprojAssemblyReference.cache
+C:\Users\sujith.kumar\sky\srcc\obj\Debug\netcoreapp2.1\srcc.csproj.CoreCompileInputs.cache
+C:\Users\sujith.kumar\sky\srcc\obj\Debug\netcoreapp2.1\srcc.AssemblyInfoInputs.cache
+C:\Users\sujith.kumar\sky\srcc\obj\Debug\netcoreapp2.1\srcc.AssemblyInfo.cs
+C:\Users\sujith.kumar\sky\srcc\obj\Debug\netcoreapp2.1\srcc.dll
+C:\Users\sujith.kumar\sky\srcc\obj\Debug\netcoreapp2.1\srcc.pdb
